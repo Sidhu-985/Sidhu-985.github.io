@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Sidhu-985.github.io/posts/</loc>
+    <lastmod>2024-02-03T14:48:00+05:30</lastmod>
+  </url><url>
+    <loc>https://Sidhu-985.github.io/posts/blog/</loc>
+    <lastmod>2024-02-03T14:48:00+05:30</lastmod>
+  </url><url>
+    <loc>https://Sidhu-985.github.io/</loc>
+    <lastmod>2024-02-03T14:48:00+05:30</lastmod>
+  </url><url>
     <loc>https://Sidhu-985.github.io/about/</loc>
   </url><url>
     <loc>https://Sidhu-985.github.io/authors/</loc>
@@ -13,8 +22,6 @@
     <loc>https://Sidhu-985.github.io/projects/</loc>
   </url><url>
     <loc>https://Sidhu-985.github.io/series/</loc>
-  </url><url>
-    <loc>https://Sidhu-985.github.io/</loc>
   </url><url>
     <loc>https://Sidhu-985.github.io/tags/</loc>
   </url>
