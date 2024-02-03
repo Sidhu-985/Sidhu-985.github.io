@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIDHU CODER - 🏠</title>
+    <link>https://Sidhu-985.github.io/</link>
+    <description>Recent content on SIDHU CODER - 🏠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://Sidhu-985.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Sidhu-985.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sidhu-985.github.io/about/</guid>
+      <description>Welcome to my portfolio, this is a practise website i created using Hugo, a static website generator, for the amFOSS Praveshan recruitment tasks</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Sidhu-985.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sidhu-985.github.io/contact/</guid>
+      <description>Contact me :- 994XXXXXXX</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Sidhu-985.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sidhu-985.github.io/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
