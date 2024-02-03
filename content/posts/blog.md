@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2024-02-03T14:48:00+05:30
 title = "Process of making this website"
 description = "Using Hugo"
